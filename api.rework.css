@@ -1,0 +1,29 @@
+body{
+    background-color: #f5f3f4;
+}
+.wrapper{
+    margin: 5px;
+    overflow: hidden;
+}
+.backdropSection{
+    display: flex;
+    justify-content: center;
+}
+.formArea{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+.backdropPhoto{
+    border: black 2px thin;
+    border-radius: 10px;
+}
+.pageIntro{
+    display: flex;
+    flex-direction: column;
+    width: 4em;
+}
+#getFact{
+    border: thick 2px black;
+    border-radius: 4px;
+}
